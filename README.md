@@ -9,6 +9,8 @@ This application helps with the application of filters on the photo
 
 ![image](./img.jpg)
 
+![GIF](scroll.gif)
+
 ## License
 
 AceFilter is available under the MIT license. See the LICENSE file for more info.
