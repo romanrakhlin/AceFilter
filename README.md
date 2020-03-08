@@ -9,6 +9,8 @@ This application helps with the application of filters on the photo
 
 ![image](./img.jpg)
 
+**scroll**
+
 ![GIF](scroll.gif)
 
 ## License
